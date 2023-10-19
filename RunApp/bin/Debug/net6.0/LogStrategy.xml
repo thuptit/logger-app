@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<entries>
+    <entry key ="DB" value="RealPattern.Logger.DbLogStrategy"/>
+    <entry key="NET" value="RealPattern.Logger.NetLogStrategy"/>
+    <entry key="FILE" value="RealPattern.Logger.FileLogStrategy"/>
+    <entry key="NULL" value ="RealPattern.Logger.NullLogStrategy"/>
+</entries>

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealPattern.Logger", "RealPattern.Logger\RealPattern.Logger.csproj", "{C1A632B2-3A51-44AF-A4F9-D78734D8274C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunApp", "RunApp\RunApp.csproj", "{F8A488D7-FC63-4539-9AD3-79044695831C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1A632B2-3A51-44AF-A4F9-D78734D8274C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1A632B2-3A51-44AF-A4F9-D78734D8274C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1A632B2-3A51-44AF-A4F9-D78734D8274C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1A632B2-3A51-44AF-A4F9-D78734D8274C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8A488D7-FC63-4539-9AD3-79044695831C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8A488D7-FC63-4539-9AD3-79044695831C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8A488D7-FC63-4539-9AD3-79044695831C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8A488D7-FC63-4539-9AD3-79044695831C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

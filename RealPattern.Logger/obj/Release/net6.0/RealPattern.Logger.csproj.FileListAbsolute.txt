@@ -1,0 +1,12 @@
+/Users/macbookpro/Projects/RealPattern/RealPattern.Logger/bin/Release/net6.0/RealPattern.Logger.deps.json
+/Users/macbookpro/Projects/RealPattern/RealPattern.Logger/bin/Release/net6.0/RealPattern.Logger.dll
+/Users/macbookpro/Projects/RealPattern/RealPattern.Logger/bin/Release/net6.0/RealPattern.Logger.pdb
+/Users/macbookpro/Projects/RealPattern/RealPattern.Logger/obj/Release/net6.0/RealPattern.Logger.csproj.AssemblyReference.cache
+/Users/macbookpro/Projects/RealPattern/RealPattern.Logger/obj/Release/net6.0/RealPattern.Logger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Projects/RealPattern/RealPattern.Logger/obj/Release/net6.0/RealPattern.Logger.AssemblyInfoInputs.cache
+/Users/macbookpro/Projects/RealPattern/RealPattern.Logger/obj/Release/net6.0/RealPattern.Logger.AssemblyInfo.cs
+/Users/macbookpro/Projects/RealPattern/RealPattern.Logger/obj/Release/net6.0/RealPattern.Logger.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Projects/RealPattern/RealPattern.Logger/obj/Release/net6.0/RealPattern.Logger.dll
+/Users/macbookpro/Projects/RealPattern/RealPattern.Logger/obj/Release/net6.0/refint/RealPattern.Logger.dll
+/Users/macbookpro/Projects/RealPattern/RealPattern.Logger/obj/Release/net6.0/RealPattern.Logger.pdb
+/Users/macbookpro/Projects/RealPattern/RealPattern.Logger/obj/Release/net6.0/ref/RealPattern.Logger.dll

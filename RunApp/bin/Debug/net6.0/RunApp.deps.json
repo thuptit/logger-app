@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RunApp/1.0.0": {
+        "dependencies": {
+          "RealPattern.Logger": "1.0.0"
+        },
+        "runtime": {
+          "RunApp.dll": {}
+        }
+      },
+      "RealPattern.Logger/1.0.0": {
+        "runtime": {
+          "RealPattern.Logger.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RunApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RealPattern.Logger/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
