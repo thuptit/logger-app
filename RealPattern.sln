@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealPattern.Middleware", "R
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealPattern.Composite", "RealPattern.Composite\RealPattern.Composite.csproj", "{96A2A432-9090-41E1-9851-CFFA121C6C03}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealPattern.Iterator", "RealPattern.Iterator\RealPattern.Iterator.csproj", "{8BA9563D-6C74-46BB-BD73-C3837E557832}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{96A2A432-9090-41E1-9851-CFFA121C6C03}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{96A2A432-9090-41E1-9851-CFFA121C6C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{96A2A432-9090-41E1-9851-CFFA121C6C03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BA9563D-6C74-46BB-BD73-C3837E557832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BA9563D-6C74-46BB-BD73-C3837E557832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BA9563D-6C74-46BB-BD73-C3837E557832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BA9563D-6C74-46BB-BD73-C3837E557832}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

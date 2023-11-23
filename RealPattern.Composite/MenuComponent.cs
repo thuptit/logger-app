@@ -1,6 +1,6 @@
 namespace RealPattern.Composite;
 
-public class MenuComponent
+public abstract class MenuComponent
 {
     public virtual void Add(MenuComponent component)
     {
