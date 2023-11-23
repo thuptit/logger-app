@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunApp", "RunApp\RunApp.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealPattern.Middleware", "RealPattern.Middleware\RealPattern.Middleware.csproj", "{381CFA8D-0195-4EC5-8681-5D7449B727EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealPattern.Composite", "RealPattern.Composite\RealPattern.Composite.csproj", "{96A2A432-9090-41E1-9851-CFFA121C6C03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{381CFA8D-0195-4EC5-8681-5D7449B727EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{381CFA8D-0195-4EC5-8681-5D7449B727EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{381CFA8D-0195-4EC5-8681-5D7449B727EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96A2A432-9090-41E1-9851-CFFA121C6C03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A2A432-9090-41E1-9851-CFFA121C6C03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A2A432-9090-41E1-9851-CFFA121C6C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A2A432-9090-41E1-9851-CFFA121C6C03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
