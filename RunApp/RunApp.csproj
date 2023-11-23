@@ -9,6 +9,7 @@
 
     <ItemGroup>
       <ProjectReference Include="..\RealPattern.Logger\RealPattern.Logger.csproj" />
+      <ProjectReference Include="..\RealPattern.Middleware\RealPattern.Middleware.csproj" />
     </ItemGroup>
     <ItemGroup>
         <Content Include="..\RealPattern.Logger\LogStrategy.xml">

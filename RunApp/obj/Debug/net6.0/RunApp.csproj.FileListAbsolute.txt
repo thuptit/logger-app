@@ -18,3 +18,5 @@
 /Users/macbookpro/Projects/RealPattern/RunApp/obj/Debug/net6.0/ref/RunApp.dll
 /Users/macbookpro/Projects/RealPattern/RunApp/bin/Debug/net6.0/RunApp.xml
 /Users/macbookpro/Projects/RealPattern/RunApp/obj/Debug/net6.0/RunApp.xml
+/Users/macbookpro/Projects/RealPattern/RunApp/bin/Debug/net6.0/RealPattern.Middleware.dll
+/Users/macbookpro/Projects/RealPattern/RunApp/bin/Debug/net6.0/RealPattern.Middleware.pdb
