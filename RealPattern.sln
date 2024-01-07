@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealPattern.ChainOfResponsi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealPattern.Observer", "RealPattern.Observer\RealPattern.Observer.csproj", "{0ECBD4EB-3A6F-4F1E-AE86-A24D4B9549D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealPattern.Strategy", "RealPattern.Strategy\RealPattern.Strategy.csproj", "{ABF8FB97-871E-4F11-AD7C-AC8DE4721F75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{0ECBD4EB-3A6F-4F1E-AE86-A24D4B9549D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0ECBD4EB-3A6F-4F1E-AE86-A24D4B9549D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0ECBD4EB-3A6F-4F1E-AE86-A24D4B9549D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABF8FB97-871E-4F11-AD7C-AC8DE4721F75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF8FB97-871E-4F11-AD7C-AC8DE4721F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF8FB97-871E-4F11-AD7C-AC8DE4721F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF8FB97-871E-4F11-AD7C-AC8DE4721F75}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
